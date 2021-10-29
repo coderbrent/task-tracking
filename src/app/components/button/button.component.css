@@ -1,0 +1,9 @@
+.btn {
+  background-color: slateblue;
+  padding: 0.75rem 1.75rem;
+  color: white;
+  font-family: "Baloo 2", sans-serif;
+  border-radius: 8pt;
+  outline: none;
+  border: none;
+}
