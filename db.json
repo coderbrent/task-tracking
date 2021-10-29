@@ -10,7 +10,7 @@
       "id": 4,
       "text": "Get dat Angular!",
       "day": "May 5th at 8:30pm",
-      "reminder": false
+      "reminder": true
     }
   ]
 }

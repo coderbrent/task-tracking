@@ -1,7 +1,7 @@
 <div
+  (dblclick)="onToggle(task)"
   [ngClass]="{ reminder: task.reminder }"
   class="task"
-  (dblClick)="onToggle(task)"
 >
   <h3>
     {{ task.text }}
